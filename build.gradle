@@ -141,7 +141,6 @@ dependencies {
 
     modImplementation("curse.maven:functional-storage-556861:${fs_version}")
     modImplementation("curse.maven:titanium-287342:${titanium_version}")
-    modImplementation("curse.maven:titanium-287342:${titanium_version}")
 
     modRuntimeOnly("mezz.jei:jei-${project.minecraft_version}-forge:${project.jei_version}") { transitive = false }
 
