@@ -11,7 +11,8 @@ import net.minecraftforge.registries.ForgeRegistries;
 public enum CustomWoodType implements IWoodType {
 
 
-    rubber("minecraft", "rubber_log", "rubber_planks");
+    rubber("gtceu", "rubber_log", "rubber_planks"),
+    treated("gtceu", "rubber_log", "treated_wood_planks");
 
     private final String modID;
     private final String logName;

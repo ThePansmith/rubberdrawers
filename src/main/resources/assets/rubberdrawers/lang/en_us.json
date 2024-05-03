@@ -1,5 +1,8 @@
 {
   "block.functionalstorage.rubber_1": "Rubber Drawer (1x1)",
   "block.functionalstorage.rubber_2": "Rubber Drawer (2x2)",
-  "block.functionalstorage.rubber_4": "Rubber Drawer (4x4)"
+  "block.functionalstorage.rubber_4": "Rubber Drawer (4x4)",
+  "block.functionalstorage.treated_1": "Treated Drawer (1x1)",
+  "block.functionalstorage.treated_2": "Treated Drawer (2x2)",
+  "block.functionalstorage.treated_4": "Treated Drawer (4x4)"
 }

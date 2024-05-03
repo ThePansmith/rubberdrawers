@@ -4,16 +4,16 @@ loaderVersion="[47,)" #mandatory This is typically bumped every Minecraft versio
 license="LGPL v2.1"
 
 # A URL to refer people to when problems occur with this mod
-issueTrackerURL="https://github.com/jmoiron/ulv-covers-modern/issues" #optional
+issueTrackerURL="https://github.com/ThePansmith/rubberdrawers/issues" #optional
 # A list of mods - how many allowed here is determined by the individual mod loader
 [[mods]] #mandatory
 # The modid of the mod
 modId="rubberdrawers" #mandatory
 # The version number of the mod
 #version="${version}" #mandatory
-version="0.1"
+version="1.0"
 # A display name for the mod
-displayName="Rubber Drawers" #mandatory
+displayName="Gregtech Drawers" #mandatory
 logoFile="" #optional
 # A text field displayed in the mod UI
 authors="Pansmith" #optional
@@ -26,7 +26,7 @@ authors="Pansmith" #optional
 #displayTest="MATCH_VERSION" # MATCH_VERSION is the default if nothing is specified (#optional)
 
 # The description text for the mod (multi line!) (#mandatory)
-description='''Adds rubber drawers'''
+description='''Adds rubber and treated wood functional storage drawers.'''
 
 # Here's another dependency
 [[dependencies.rubberdrawers]]
